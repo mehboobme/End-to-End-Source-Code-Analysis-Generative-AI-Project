@@ -45,6 +45,8 @@ open up localhost:
 
 - Python
 - Langchain
-- GPT
-- Pinecone
+- Flask
+- OpenAI
+- GPT 3
+- ChromaDB
 
