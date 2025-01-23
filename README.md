@@ -10,7 +10,11 @@ Project repo:
 # Step 2. Create a conda environment after opening the repository
 
 ``` bash
+<<<<<<< HEAD
 conda create -n medibot python=3.10 -y
+=======
+conda create -n llmapp python=3.10 -y
+>>>>>>> 8918c48d7f73e197c33e3904fd0d21d5c45d4436
 ```
 
 ```bash
@@ -45,6 +49,13 @@ open up localhost:
 
 - Python
 - Langchain
+<<<<<<< HEAD
 - GPT
 - Pinecone
+=======
+- Flask
+- OpenAI
+- GPT 3
+- ChromaDB
+>>>>>>> 8918c48d7f73e197c33e3904fd0d21d5c45d4436
 
